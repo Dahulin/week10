@@ -55,6 +55,11 @@
 }
 ._流程形状 {
 }
+._连接线 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+}
 ._图片 {
   color:#000000;
 }
@@ -93,4 +98,22 @@
 .box_11 {
 }
 .flow_shape {
+}
+._32号字_单行列表内，右方操作说明的文字__） {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  text-align:left;
+}
+.box_31 {
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.line1 {
 }
